@@ -16,9 +16,7 @@ function Listing() {
                 </div>
             </div>
 
-
         </>
-
     );
 }
 
